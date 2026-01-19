@@ -9,3 +9,5 @@ pytest
 python-dotenv
 seaborn
 tqdm
+loguru
+typer[all]

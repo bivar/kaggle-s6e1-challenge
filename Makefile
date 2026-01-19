@@ -68,6 +68,12 @@ data: requirements
 	$(PYTHON_INTERPRETER) playground_series_s6e1_kaggle/dataset.py
 
 
+## Make features
+.PHONY: features
+features: requirements
+	$(PYTHON_INTERPRETER) playground_series_s6e1_kaggle/features.py
+
+
 #################################################################################
 # Self Documenting Commands                                                     #
 #################################################################################
