@@ -1,0 +1,11 @@
+flake8
+ipython
+isort
+matplotlib
+notebook
+numpy
+pandas
+pytest
+python-dotenv
+seaborn
+tqdm
